@@ -4,7 +4,7 @@
 
 
 
-[PITCHES](RING_PITCH.md)
+[PITCHES](RING_PITCHES.md)
 
 Elevator Pitch, 2 minutes Pitch, Demo day pitch, Mail Pitch 
 
