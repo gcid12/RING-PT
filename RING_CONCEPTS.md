@@ -1,0 +1,402 @@
+#RING CONCEPTS
+
+
+
+___
+___
+##Product Development
+
+WHAT IS RINGS?
+___
+**(FTF Application 06-01-2014)**
+
+What problem are you solving
+API’s are extremely difficult to create and maintain.  Some solutions are available on the market but they require skills that regular business owner do not have.
+
+MyRing brings an easy to use and accessible solution to companies that want to have their own API in order to serve their content. We are convinced that the popularization of difficult technology has happened in the past and it will happen again.  For example, did you know SMTP is the email you check everyday but until it was made easy wasn’t used by all. 
+
+
+___
+
+**(TS Boston Application 06-01-2014)**
+
+***What problem are you solving?***
+
+We strongly believe internet is clogged by few internet companies, and is not getting better, every day on the news we have a new startup company that aims to tap into a new area and control it's flow of information. Jon Evans call them "stacks" others "Internet Silos", the truth is that this model is based on coercion and the infamous "I-got-here-first" approach. 
+
+Everybody talks about API's, as a way to control your own data but the reality is that it remains complicated and obscure for everyone.  The result of all this it's an asymmetrical development of technology. On one hand everyone expect Apple, samsung or software developers  to came up with the next big thing. To be fair hardware and software and even tools to analyze the information are doing a great job, the real problem is the lack of significant Data-Sets.  In the most incredible and saddest example when you ask Siri for a joke it returns a pre-recorded  lame joke. An amazing voice recognition technology with no data available to dig into. And it's not that the world don't have comedians , there are plenty but there's no possible way in this planet that they'll prepare an API.  And this is what this project is about. We want to abolish the entrance barrier for anyone that have Data to share with the world.  APIRing is about breaking everything and starting all over again.  After all, users and data owners are still at the top of the pyramid ,even though they haven't realized it yet.  
+
+
+***Describe your solution/product***
+
+Our solution is oriented to anyone who have data to share, we have simplified the process in 3 steps:  Capture, Organize and Distribute. Our proprietary technology  is called "The global Ring"   . A Global Ring is a distributed database that does the heavy lifting work of having the information updated and available in every corner of the planet. A "Global Ring" is nothing but an ephemeral cached copy of every "local Ring" that exists worldwide. It also guarantees that once it expires, it will disappear.  This represents the biggest differences of the API RING system over other API solutions.
+
+***Benefits:***
+
+* Data ownership: Data stays in each company's local Ring environment, which means retaining physical control over the information by the Data owner.  The decision to erase, encrypt, or surrender it to third parties remains with the Data owner. 
+
+* Green Technology: Since the global Ring does the heavy lifting of global Distribution, there's no need to beef up every API on the planet. This represents the biggest savings in money  and server usage and therefore energy consumption is conserved, making this technology green.
+
+* We have also developed other technologies such as  "Data Lanes" that allow us to integrate legacy data and the "Ring Modeler" which turns any professional(Architects, Doctors, educators, etc.) into a Data Modeler without any database or programming knowledge.
+
+___
+
+***(v0.1 , Disrupt 2014)***
+
+***What problem are you solving?***
+
+We strongly believe that there's a big hole in the internet environment. While we expect companies such as Apple or Samsung to come up with the next big thing, and software developers and algorithms solve all our problems we fail to see that the real problem is the lack of significant data-sets. Take Siri (iPhone) for example, have you ever asked her to tell you a joke only to be sadly disappointed by the pre-recorded message . Siri, an amazing voice recognition software encased on a very neat hardware but with no significant Data-Sets to dig into.
+
+And it does make sense in the actual environment. A joke is not significant piece of data and a comedian don't have the resources to mount an IT team to develop and deploy his content.
+
+The conventional rational goes like this: API's or any data exchange technology are expensive and technically complicated to maintain, therefore only accessible to a few.
+
+Where have we heard that same story?. Every disruptive technology have gone through the same maturation steps : 1.Experimental, 2. Enterprise, 3.Personal, 4. De Facto. (Personal Computer,printers,email, websites, etc.) 
+
+API RING will abolish the barrier that prevents everyone from attaining the information we desperately want to give and receive. APIRing is about breaking apart these barriers and allowing us to start all over again.  After all, data owners are at the top of the pyramid ,even though they haven't realized it yet.  
+
+***Describe your solution/product***
+
+Our solution is oriented to anyone who has data they would like to share.  We have taken a complex process and simplified it into 3 steps:  Capture, Organize and Distribute. Our technology is called "The global Ring."  a global distributed database that takes all of the heavy lifting away from those wanting their information updated and available In every corner of the world. A "Global Ring" is nothing but a ephemeral cached copy of every "local Ring" that exists worldwide. Once it expires it will disappear.  This is the biggest differences between our API RING system over other API solutions.
+
+---
+ **(Chase 2013)**
+
+***Tell Chase about your business; how successful it is and what makes it unique?***
+
+API Ring is a project that allows small businesses to enter the API revolution that is reshaping the business landscape nowadays .  With more than 1.1 Billion smartphones out there, 99 millions just in the U.S.  the retail opportunity for those who can offer their product through mobile devices look promising. Unfortunately API technology is expensive and only accessible for big companies, this project is about abolishing this barrier and empowering local businesses to compete in a global scale.
+
+Everyone agrees that Mobile and wearable technology is the future of communication and retail, however it's also true that there's a big technical barrier for companies and small businesses that can't afford to create their own API.  1 Billion smartphones out there (99 million just in U.S.) and many billions more joining the next years represent the biggest retail opportunity ever imagined . API Ring is a project that create tools to make this technology accessible to local business empowering them to compete in a global scale.
+
+
+---
+
+**(FTF 2013)**
+
+***What do you think is the future of fashion and technology? (Please inspire us with this answer)***
+
+Having API’s involved in different areas of Fashion will mean exponential increases in exchange not just in retail but also in every level of the design process.  It starts with Fashion Designers choosing materials from different sources via an API.  Meaning hundreds of materials perfectly organized and curated by industry leaders themselves to choose from.
+
+Then the next step will be fashion Brands and small designers loading their lines in Federated APIs  (What we call Data Rings).  People interested in Fashion will use Data Browsers to query different looks (Shoes, pants, shirts, etc.). Results will yield different combinations of clothes coming from Designers from all around the world.  
+
+A filtering system would allow users to select looks (a combination of products) that are only available in certain geographical area or at a certain price range. 
+
+Finally, Retailers will use those APIs to regulate prices.  Vendors will provide Dynamic Pricing in store killing the advantage of a cheaper price online. The convenience will then favor the retailer by having the product at hand (And not a FedEx to deliver away). 
+
+In other words, our future projects the The Fashion Industry being regulated by the Fashion Industry itself. 
+
+
+
+
+___
+___
+
+##BUSINESS MODEL
+
+---
+
+**(Disrupt 2014)**
+
+***How do you make money?***
+
+We sell API RING in 2 different flavors. Both connected with the Global Ring. 
+
+1. API RING FOR EVERYONE (Amateurs, Students, small companies)
+This solution have the minimum tools to put your information out there under a freemium model. 5 minutes sign in and easy set up. Clients can buy additional server usage, tracking tools, marketing tools, etc. This also include tutorials and CIY (Capture.IT.Yourself) resources. The promise is "Start sharing Data without programming knowledge". 
+
+2. API RING CLIENT
+This solution for small medium companies sitting on potential data resources. API RING client to be installed in your server (or preferred cloud service). Companies choose what Data to share with Global Ring. Installation of this client requires technical expertise equivalent to installing Wordpress in your host.
+
+
+Note: API Ring will be open for developers who want to create their own clients or adapt their existent ones. We strongly believe Twitter did a big mistake by closing that door. For them we have Integration standards, API Documentation and dedicated assistance.
+
+---
+
+**(TS Application 2013)**
+
+***Who are you selling to/do you plan to sell to in the next year?***
+
+Monetization from launch day is our primary goal. We are planning to launch a Minimum Viable Product by Spring- Summer 2014.  Even tough Collaborative API Ring technology can be applied to a huge array of sectors, we have decided to narrow the launching effort to 4 main areas to show the potential of the API RING. Those areas are: 1. Elections (API applied to ideas), 2. Industrial (API applied to manufacturing), 3. Retail (API applied to selling products), 4. Marketing (API applied to Advertising)
+
+1. Elections APIs: Election year is ahead of us, if we can make a lot of candidates use an API to communicate with Media and voters it will make our case stronger. We understand Twitter exist but a campaign mounted on an API Ring provide a candidate more possibilities to interact with a wider audience.
+
+2. Industrial APIs: Sensors and small robots capturing data on an industrial environment is on the rise, API Ring is a solution to the problem of sharing collected data worldwide.  API Ring is intended to become an important player by providing the easiest to use, more stable capturing platform in the market. We understand IBM is creating its own version of the industrial Internet but while they start Top to bottom with big corporations, we are planning to start from the bottom to the top providing accessible technology to small and medium companies. 
+
+3. Retail APIs: In a time where online retail is dominated mostly by 2 main players (Amazon and Walmart), API Ring is our bet to decentralize electronic commerce into multiple specialized stores.  If a product live in API's and not in a companies Databases it can be sold by multiple clients (apps). It's a slight shift in technology that can have a huge impact.  Our sales effort will target manufacturers of products willing to expand their channels of distribution.
+
+4. Marketing APIs: We consider the banner and SEO model to be soon exhausted. We are planning to interest big Advertising Agencies to start exploring the use of an API with marketing purposes. Brand sponsored content , digital goodies and exclusive information access to loyal consumers is definitely an area worth exploring.  We want to unlock Marketing as a meaningful force by integrating it with information solutions.
+
+***What monetization models are you using/ do you plan to test in the next year?***
+
+We have a 3 step process to create an API for our clients (1.Capture, 2.Organize, 3.Distribute), each step have the freemium, executive and premium choice. This means that any person or company can start an API with us for free, this will be limited in features and usage, companies or organizations willing to expand their reach will upgrade a la carte.  Educational and Non Profit entities will have access to more resources by default. This way we will generate an accessible, scalable solution suitable for each need and level of expertise.
+
+The other approach for monetization is the corporate and/or branding sponsoring boosted by marketing purposes. A company willing to support a research or social cause can absorb the cost of API usage and tools. (e.g. AVON sponsoring a collaborative API that connect breast cancer research centers).
+
+---
+
+**(FTF Application 2013)**
+
+***Does your company have a social mission as well? If so please tell us about it***
+
+MyRing social mission is to support any effort to make Data available to everyone. 
+
+
+***How do you expect to make a profit***
+
+I will allow the business owner to use my solution to organize their product and data in a local environment within my company. Once they have plugged it into the international date market will charge for the usage of server and monitoring tools. 
+API.
+
+
+
+---
+---
+
+##MARKET
+---
+**(Disrupt 2014)**
+
+***Competition and differences***
+
+Apigee, layer7, mashery, 3scale, etc. 
+
+Difference 1: Capture Solutions, (The missing and over-assumed step before building an API)
+Like other solutions on the market, we don't assume that you have an API Team ready with the information . We provide Capture solutions and tools to tackle different scenarios. We literally take you from day zero of capturing your data all the way to API monetization. 
+
+Difference 2 : The More the Merrier
+We don't believe in  uniqueness or the "I got here first" approach of Corporate APIs.  We believe that a useful API environment only can be achieved if multiple sources contribute with information.  Every new API contributor represents a valuable source that will enrich the whole Data Set.   This will only increase the quality of the result given back by the algorithm or human curator crunching the data.
+
+Difference 3: Schemas defined by industry
+We encourage Industries, not a single player, to take control of their information.  Through the years, software developers have perfected the way to collaborate in projects.  Using the same processes, any industry can define Information structures collaboratively. Not imposition or anarchy, but experts in each area collaborating in a git-hub like environment.
+
+Difference 4: Data Lanes
+Legacy Data is important, and should never be discarded. We believe that every Data Set can be modeled to  better suit recipients. That's why we have created the "Data Lanes," a technology that can Adapt information back and forward to suit a common schema.
+
+
+---
+
+**(TS Application 2013)**
+
+***Who are your competitors and how are you better?***
+
+Apigee, layer7, mashery, 3scale, etc. 
+
+* Difference 1: We want to abolish the API entrance barrier.  A world where API's are accessible to everyone that have data to share. One of our competitors state in his website that he have more than 250 APIs, we want to run API's in the millions. API is not a new technology but it have the potential to disrupt the whole internet environment.  From every point of view it's revolutionary, but most interestingly it can take biggest leaps forward for technologies such as Artificial Intelligence and Education. It's also truth that some years ago this kind of project was impossible, but now the pieces are in place to create an internet where information is truly everyone's asset. 
+
+* Difference 2: Capture Solutions, (The missing and over-assumed step before building an API)
+Like other solutions in the market, we don't assume that you have an API Team ready with the information (2) , we provide Capture solutions and tools to tackle different scenarios. We literally take you from day zero of capturing your data all the way to API monetization.  API Rings helps professionals of other areas to enter the API economy.
+
+* Difference 3 : The More the Merrier
+We don't believe on uniqueness or the "I got here first" approach of Corporate APIs.  We believe that a useful API environment only can be achieved if multiple sources contribute with information.  Every new API contributor represents a valuable source that will enrich the whole Data Set.   This will only  increase the quality of the result given back by the algorithm or human curator crunching the data.
+
+* Difference 4: The Global Ring
+A Global Ring is a distributed database that do the heavy lifting work of having the information updated and available in every corner of the planet. A "Global Ring" is nothing but an ephemeral cached copy of every "local Ring" that exist worldwide, it also guarantee that once it expires it will disappear.  This represent the biggest differences of the API RING system over other API systems.
+
+*  4.1. Data ownership: Data stays in each company's local Ring environment, which means physical control over the information by the Data owner.  The decision to erase, encrypt or surrender it to third parties remains within the Data owner.
+
+*  4.2  Green Technology: Since the global Ring do the heavy lifting of global Distribution, there's no need to beef up every API in the planet. This represents the biggest savings in money , server usage and therefore energy consumption making this technology green.
+
+
+* Difference 5: Data Lanes
+Legacy Data is important and should never be discarded. We believe that every Data Set can be modeled to suit better recipients.
+That's why we have created the "Data Lanes", a technology that can Adapt information back and forward to suit a common schema. 
+
+
+* Difference 6 : Users are different
+We have both the non-technical and technical users covered. We understand that there's no need to have everyone using the same interface. Executives and decision makers have their  minimalistic tracking tools and technical geeks like us have perfectly organized documentation that helps them do their work faster.   
+
+* Difference 7: Schemas defined by industry
+We encourage Industries not a single player to take control of their information.  Through the years software developers have perfected the way to collaborate in projects (Git, forking, etc.) Using the same processes any industry can define Information structures collaboratively. Not imposition or anarchy, but experts in each area collaborating in a git-hub like environment.
+
+
+Similarities with competition.:  We offer the same technology Corporate APIs use,  Reliable and scalable servers, tracking tools and dynamic documentation.
+
+---
+
+**(Disrupt 2014)**
+
+Why your product is better?
+  1. Data ownership: Data stays in each company's local Ring environment.  It allows data owners to physical control their own information. The decision to erase, encrypt, or surrender it to third parties remains with the owner.   2.  Green Technology: Since the global Ring does the heavy lifting of global Distribution, there's no need to beef up every API on the planet. This represents the biggest savings in money  and server usage and therefore energy consumption. 
+
+Thinking Differently...
+Potentially, a new generation of startups can be build in top of API Ring technology. Mashup and Data curation will make the difference, no more data exclusivity. This might sound totally irrational at first sight but it will ignite data promiscuity that will cause highly organized, rich datasets that will benefit directly various IT areas.
+
+---
+
+
+**(Chase 2013, v1)**
+
+How it is involved with the community?
+
+We are directly involved with the community we serve. Our objective is to work together with small local businesses and make them technologically capable to compete and thrive in the app oriented economy.  Other important thing to mention is that API technology can be used as an educational tool, our previous project, a knowledge Barter website called "TradeMyBrain" was indeed the origin of the idea behind this project.  API Rings is a for-profit oriented company , however we believe that every piece of technology we design, program and deploy should have always baked in, educational capabilities that will allow teachers and students to use it for educational purposes. This way business money push education, and in the long run, education will push technology forward too.
+
+We think that internet rules haven't been written yet, something about few big companies controlling all the online market seems not right and doomed in the long run. We believe that accessible and quality technology can even the field for a more diversified internet market that definitely will favor local businesses.  
+
+---
+
+**(Chase 2013, v2)**
+
+
+What would a grant mean to your business and how will you utilize the funds to ensure long-term growth and stability?
+A grant will give us the means to consolidate APIRING technology. This grant will allow us to hire the talent in the programming and customer service area. Since our long-term growth and stability is dependent on the adoption of this technology our group will work on creating viable resources for local business in order to facilitate the creation of their own API.
+
+What challenges can you identify for your business, and how do you plan to overcome them?
+
+Our biggest challenge to date will be to make this project an essential tool for business owners. We will overcome such a challenge by creating customized resources for potential industries. The resources will educate the business owner by proving them with the necessary knowledge to begin using an API and thereby allowing them to create a profitable strategy.
+
+
+
+
+---
+---
+
+##GROWTH
+---
+
+**(v0.1 , TS Application 2013)**
+
+***Explain how you intend to (or already do) find customers?***
+
+We are creating our Advisory Board for each area we are approaching.  We are working close to experts to tune up with the industry needs and requirements. This experts will also be our entrance point to organizations and important players in each area.  Our approach is to start slow but strong in each industry, we are planning to build our clients success cases carefully, the validation we'll receive will help us to spread the idea more aggressively later.
+
+It's also part of our strategy to always encourage any industry or sector to join the project, creating collective API's for their own needs. It's clear that the only way to grow this project is by not controlling each initiative and let it grow organically.
+
+
+
+
+---
+---
+##TEAM
+---
+
+**(FTF Application 2014)**
+
+
+***Tell us your story***
+
+We have been working with Dynamic Data for the last 10 years and the last 5 here in New York.  We’ve been busy providing API solutions for the Travel Industry and after developing, troubleshooting and tackling all kind of problems we realized that there’s an unnecessary complexity behind this.  Having worked in a company spending 500k a year on a creating an API I’ve realized that it still not available to all that need it.
+
+"MyRing" makes this technology accessible to everyone. MyRing is a High End Enterprise solution for CEOs and decision makers. It empowers the non-technified companies to take advantage of Dynamic Data in the same way big corporation do.
+
+
+
+***What is this company?***
+
+This is a company ran by a group of friends that are passionate about Data and APIs.  We like to believe we live, breath and discuss about Data on a non-stop basis. We love going to Art exhibitions, building Robots with Arduinos and Sensors, in addition to being an Incorporated LLC.
+
+
+
+---
+
+***(Disrupt 2014)***
+
+***Why is your team suited to tackle this challenge?***
+One of the founder is the CTO of Team America Inc.  A NY based receptive tour operator (B2B) that sells thousands of hotel rooms a minute and handle hundred of millions of sales a year. We know how to handle  requests and transactions in a massive scale, API's and web services are our bread and butter. The other founder have more than 10 years working in Marketing for top tier companies like Coca-Cola and Sony Pictures creating successful strategies in Digital and traditional media .  Both their experiences mash up in a collaborative and  creative machine to cover both the technical and marketing sides of the project.
+
+---
+
+***(Chase 2013)***
+
+***Who is the team?***
+
+The team is formed by a pair of twin brothers with very different professional backgrounds. Ricardo have the Engineer- IT / project management experience, Before this project he was the head of an IT department for a company that handles thousands of transactions a minute and more than 100 million dollar a year in sales (creating, maintaining and troubleshooting APIs was his bread and butter). In the other hand Gerardo holds degrees in Design and Art, he is an active Art Director that specialize in the creation of Brands from scratch and also in Digital Marketing, he have work for clients like Coca-Cola, Columbia Pictures and Warner Brothers. Both personalities and experience mash up in a collaborative & Creative Machine that have both Technical and Marketing sides covered. 
+
+---
+***(Techstar application 2013)***
+
+***Who is the team?***
+
+The team is formed by a pair of twin brothers with different professional backgrounds. Ricardo is the Engineer with IT /project management experience. He is the head of an IT department which develops API's on a daily basis. Gerardo holds degrees in Design and Art. He specializes in the creation of brands and marketing and has worked for clients such as CocaCola and Columbia Pictures.Both experiences mash up in a collaborative & creative machine to cover both the technical and marketing sides of the project.
+
+---
+
+***(Techstar application 2013)***
+
+***Tell us something impressive you have personally built or achieved***
+
+We have rebuilt the system of TA inc. from an 15 year old legacy code to a sturdy application that support heavy traffic and more than USD 80 million in transactions a year. We have redesigned Databases architecture, the entire API and it's entire documentation, we have made it OTA compatible and also interface wise, we have put in place a highly responsive multi platform user interface.  We have created tracking tools and  set up this company for the future, but overall we have built an  IT department with well assigned roles that runs on a project management workflow that keep programers busy, productive and overall motivated.
+
+From a Marketing point of view we have been also successful in different projects. At Team America we have founded from scratch an internal Design department that boosted sales for more than 100% the first year (Escorted Tours). Before that, we have designed pitching books for successful projects that include the first ever production of Warner Brothers in LatinAmerica, we have worked in more than 30 campaigns with Coca-Cola, Sony Pictures and a lot of companies where branding meets technology.
+
+
+
+---
+---
+
+##FUNDING
+---
+
+**(Chase 2013)**
+
+What would funding mean to your business and how will the funds be utilized to ensure long-term growth and stability?
+Funding means the opportunity to consolidate APIRING  technology, It will allow us to hire talent in the programming and customer service area. Our success is directly tied with the adoption of our technology by local businesses, we are planning to design first approach non-technical materials oriented to business owners that will inform them how they can use API technology to get started in the e-commerce economy.  By increasing the adoption rate we ensure our long-term growth and stability.
+
+---
+
+**(Chase 2013)**
+
+It will help to attract the necessary talent we need to take this project to the next level.  
+We need to increase our programming staff , and also our sales team that 
+It will inject cash flow that will allow use to promote and kick start rings in different areas of expertise. 
+It will allow us to attract the managers for every are
+
+---
+**(FTF Application 2014)**
+
+Do you have any investors yet? If so, who are they and how much have you raised to date?
+
+We only have family money invested in the company. Once we launch the Beta we’ll start raising money.
+
+
+---
+---
+##INSPIRATION
+---
+
+
+**(FTF Application 2014)**
+
+What inspired you to launch it? 
+The Aha moment happened 2 years ago when every hotel in Las Vegas decided to align to the OTA standard, altogether they decided that enough was enough; it was their way or the high way.  They stated that whoever wanted to do business with them would have to align to their own terms.  It was an inspirational moment to see Data Owners taking control of their business. This project it’s about empowering Data owners to control their own information, prices and inventory
+
+---
+**(Chase 2013,  v1)**
+
+What inspired you to start your business?
+We have been working close to the travel industry for the last 4 years, we have seen first row an inspiring and mind-blowing shift in the way "Data owners" (hotels) are taking control over their assets from websites that previously control and sell their rooms. We have witnessed an industry getting organized and reversing the business back to their favor.  The aha moment is that once an industry gets organized the big mammoth players don't have other remedy but to follow their lead.  We really hope to be part of a new generation of internet players that compete on a more diversified environment. 
+
+---
+**(Chase 2013,  v2)**
+
+What inspired you to start your business?
+Our inspiration comes from seeing close to zero local businesses directly benefiting from one of the largest commercial opportunities in history. With more than 1.1 Billion smartphones being used the retail opportunity for those offering their products through mobile devices looks promising. However, API technology is too expensive and at the moment only accesible to larger companies This project aims at abolishing this barrier and empower the small local business to compete in a global scale.
+
+
+
+
+---
+---
+
+##CULTURE
+---
+
+
+**(FTF Application 2014)**
+
+How do you envision your company culture 
+
+Our culture is based in 4 concepts: 
+
+ART + BE DIFFERENT +  DATA OPENESS + SERVICE
+
+1.ART: Art is an essential part of our company  “An artist in residence, an exhibition in our offices, sponsoring or organizing an Art Event”
+
+2. BE DIFFERENT: We embrace being different, it is very important for us to never stop discovering and inventing new ways of doing things.  We also look to have an multicultural environment.
+
+3. DATA OPENESS: It our companies mission. 
+
+4. SERVICE:  We follow Richard Branson school of thought. We want to create the best experience for your clients. 
+
+
+
+
+
